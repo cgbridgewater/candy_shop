@@ -18,6 +18,7 @@ const Receipt = (props) => {
 
     return (
         <div> 
+            {/* turnary if details data exists */}
             { details.length !==0  ? 
             <div onLoad={Ka_ching()} className="wrapper">
                 <Navbar/>
