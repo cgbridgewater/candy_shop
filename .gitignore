@@ -6,3 +6,10 @@ node_modules/
 /server/mongoVar.env
 /server/.env
 candy_shop\server\.env
+
+
+node_modules/
+coverage/
+build/
+.DS_Store
+.env
