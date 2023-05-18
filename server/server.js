@@ -18,4 +18,4 @@ require("./routes/candy.route")(app);
 require("./routes/user.route")(app);
 require("./routes/category.route")(app);
 
-app.listen(port,() => console.log(`listening on port: ${port}`));
+app.listen(port,() => console.log(`listening on port: ${port}, Welcome to The Candy Shop`));
