@@ -5,7 +5,6 @@ const cookieParser = require("cookie-parser");
 const port = 8000;
 const dotenv = require("dotenv");
 
-
 dotenv.config({path:'.env'});
 
 dotenv.config({path:'mongoVar.env'});
