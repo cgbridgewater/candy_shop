@@ -1,9 +1,8 @@
 # Candy Shop Group Project from the Dojo PnA section, utilizing the MERN stack.  
 #### (This fork of the origional project was created so that it could be deployed)
 
-Live Demo Site 👉  <a href="http://52.33.105.171/">Candy Shop</a>
-<br/>
-🍬🍭🍫📍🍡
+## Live Demo Site 👉  <a href="http://52.33.105.171/">Candy Shop</a>
+
 <br/>
 <br/>
 
