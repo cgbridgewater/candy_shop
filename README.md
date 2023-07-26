@@ -1,5 +1,5 @@
 # Candy Shop Group Project from the Dojo PnA section, utilizing the MERN stack.  
-### (this copy of the origional project was created so that it could be deployed)
+### (this fork of the origional project was created so that it could be deployed)
 
 <br/>
 <br/>
