@@ -1,5 +1,5 @@
 # Candy Shop Group Project from the Dojo PnA section, utilizing the MERN stack.  
-### (this fork of the origional project was created so that it could be deployed)
+#### (This fork of the origional project was created so that it could be deployed)
 
 <br/>
 <br/>
@@ -10,7 +10,9 @@
 <br/>
 <br/>
 
-## We created an Admin side to be able to control inventory, with CRUD features along with adding a tick option to put items on sale. All of this is protected behind a hidden login/reg page. A fully operational version of this site would have the registration page removed and only a login page available.
+# Admin Side
+
+### We created an Admin side to be able to control inventory, with CRUD features along with adding a tick option to put items on sale. All of this is protected behind a hidden login/reg page. A fully operational version of this site would have the registration page removed and only a login page available.
 
 
 <br/>
@@ -49,6 +51,8 @@
 <img width=80% src="https://live.staticflickr.com/65535/53072395315_4f255cd78c_z.jpg" alt="edit an item" />
 <br/>
 <br/>
+
+# User Side
 
 ### The User side allowed customers to view all items, items by category and items on sale. Or the option to view one item with more detail about the item and other items of the same category.
  
