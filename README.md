@@ -1,5 +1,4 @@
 # Candy Shop Group Project from the Dojo PnA section, utilizing the MERN stack.  
-#### (This fork of the origional project was created so that it could be deployed)
 
 ## Live Demo Site 👉  <a href="http://52.33.105.171/">Candy Shop</a>
 
@@ -106,5 +105,7 @@
 #### A redirect after PayPal checkout is completed to a printable receipt page showing the completed purchase
 <img width=80% src="https://live.staticflickr.com/65535/53072029801_76c0e8d34c.jpg" alt="Printable Receipt" />
 
+<br/>
+<br/>
 
-
+#### (This fork of the origional project was created so that it could be deployed)
