@@ -4,5 +4,7 @@
 <br/>
 <br/>
 
-## We decided to make an eCommerce which can be used for an array of different applications, in this case to sell candy.  
+## We decided to make an eCommerce which can be used for an array of different applications, in this case to sell candy. 
+
+
 
